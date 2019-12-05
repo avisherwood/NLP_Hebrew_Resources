@@ -1,8 +1,7 @@
 # NLP_Hebrew_Resources
 Comprehensive list of NLP resources in Hebrew.
 
-Hebrew NLP Resources
-####################
+# Hebrew NLP Resources
 
 This repository collects resources for NLP in Hebrew, as part of the `NLPH project <https://github.com/NLPH/NLPH>`_, which you can `read more about here <https://github.com/NLPH/NLPH>`_. Resources are divided to folders by type. If you have a resource you can contribute, to be released under some open license, please submit a pull request, or contact us at `contact@nlph.org.il <mailto:contact@nlph.org.il>`_. See `here for a list of companies operating in the field <https://github.com/NLPH/NLPH_Resources/blob/master/Industry.rst>`_.
 
